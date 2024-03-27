@@ -15,7 +15,9 @@ Welcome to Tenzies Game, a digital adaptation of the classic dice game. This pro
 
 ## Getting Started
 
-To get started with Tenzies Game, follow these steps:
+To get started with Tenzies Game visit the live link or follow these steps:
+
+[Live Link](https://tenzies-game-axmst.netlify.app)
 
 1. **Clone the Repository:** Clone this repository to your local machine using Git:
 
